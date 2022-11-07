@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #C1BFB5;
+}
+
+label {
+    color: #C1BFB5;
+}
+
+button {
+    padding: 5px 30px;
+    margin-top: 10px;
+    background-color: #FEFDFF;
+    color: #292F36;
+    border: 1px solid #C1BFB5;
+}
+
+button:hover {
+    background-color: #C1BFB5;
+    color: #FEFDFF;
+}
+
+.conteudo {
+    width: 100%;
+    max-width: 500px;
+    padding-top: 50px;
+    margin: auto;
+    height: 100vh;
+    max-height: 900px;
+}
+
+.formulario {
+    height: auto;
+    margin: 0px 0px;
+    padding: 5px 10px 50px 10px;
+    background-color: rgb(41, 47, 54);
+    border-radius: 6px;
+}
+
+form {
+    width: auto;
+    margin: 0px 40px;
+}
+
+.cabecalho {
+    color: #C1BFB5;
+    padding: 10px;
+    text-align: center;
+}
+
+.campo {
+    padding: 5px 10px;
+    width: 100%;
+}
+
+.campo input {
+    width: 100%;
+    border: 1px solid #8EB1C7;
+    height: 30px;
+    padding: 5px 5px;
+}
+
+.campo input:focus {
+    outline: none;
+}
+
+.campo select {
+    width: 100%;
+    border: 1px solid #8EB1C7;
+    height: 30px;
+    background-color: #FEFDFF;
+}
+
+.campo select:focus {
+    outline: none;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultado {
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #FEFDFF;
+    border: 1px solid #8EB1C7;
+    display: block;
+}
