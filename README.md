@@ -1,5 +1,7 @@
+<h1 align="center"> Calculadora FMT </h1>
 
 <p align="center">
+Evento exclusivo e gratuito, promovido pelo Floripa Mais Tech para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -36,4 +38,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Floripa Mais Tech :wave: [Floripa Mais Tech](https://floripamaistec.pmf.sc.gov.br/)Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)
+Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)
