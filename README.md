@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Floripa Mais Tech :wave: [Floripa Mais Tech](https://floripamaistec.pmf.sc.gov.br/)Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)
+Feito com ♥ by Floripa Mais Tech :wave: [Floripa Mais Tech](https://floripamaistec.pmf.sc.gov.br/)Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)Feito com ♥ by Floripa Mais Tech :wave: [FMT](https://floripamaistec.pmf.sc.gov.br/)
